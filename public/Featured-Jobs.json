@@ -2,12 +2,12 @@
     "jobs": [
       {
         "id": 1,
-        "company_logo": "https://example.com/company1-logo.png",
-        "title": "Software Engineer",
-        "company_name": "Acme Corp",
-        "location": "San Francisco, CA",
-        "salary": "$100,000 - $150,000 per year",
-        "description": "We are looking for an experienced software engineer to join our team.",
+        "company_logo": "https://as1.ftcdn.net/v2/jpg/03/99/98/60/1000_F_399986042_9iSLYUNyDv8npaKP31xsIpDVFjfqGLDF.jpg",
+        "title": "Technical Database Engineer",
+        "company_name": "Google LLc",
+        "location": "Dhaka Bangladesh",
+        "salary": "$100K - $150K",
+        "description": "We are looking for an experienced software engineer to join our team. We are looking for an experienced software engineer to join our team.",
         "responsibilities": [
           "Develop and maintain software applications",
           "Collaborate with cross-functional teams to identify and solve complex problems",
@@ -21,12 +21,12 @@
       },
       {
         "id": 2,
-        "company_logo": "https://example.com/company2-logo.png",
+        "company_logo": "https://as2.ftcdn.net/v2/jpg/05/38/65/33/1000_F_538653341_MVTOvktyvWCwqAdVTllBPFnfJbgHiYxB.jpg",
         "title": "Data Scientist",
-        "company_name": "Beta Inc",
+        "company_name": "Filmix",
         "location": "New York, NY",
-        "salary": "$120,000 - $160,000 per year",
-        "description": "We are seeking a data scientist to analyze and interpret complex data sets.",
+        "salary": "$120K - $160K",
+        "description": "We are seeking a data scientist to analyze and interpret complex data sets. We are seeking a data scientist to analyze and interpret complex data sets.",
         "responsibilities": [
           "Design and implement data models and algorithms",
           "Collaborate with stakeholders to define project requirements",
@@ -40,12 +40,12 @@
       },
       {
         "id": 3,
-        "company_logo": "https://example.com/company3-logo.png",
+        "company_logo": "./tesla-9 1.png",
         "title": "Marketing Manager",
-        "company_name": "Gamma Corp",
+        "company_name": "Tesla",
         "location": "Chicago, IL",
-        "salary": "$150,000 - $200,000 per year",
-        "description": "We are seeking a talented marketing manager to lead our team.",
+        "salary": "$150K - $200K",
+        "description": "We are seeking a talented marketing manager to lead our team. We are seeking a talented marketing manager to lead our team. We are seeking a talented marketing manager to lead our team.",
         "responsibilities": [
           "Develop and oversee marketing strategies and campaigns",
           "Manage a team of marketing professionals",
@@ -59,11 +59,11 @@
       },
       {
         "id": 4,
-        "company_logo": "https://example.com/company4-logo.png",
+        "company_logo": "./Group 10021.png",
         "title": "Customer Service Representative",
-        "company_name": "Delta Inc",
+        "company_name": "Airbnb LLC",
         "location": "Houston, TX",
-        "salary": "$35,000 - $45,000 per year",
+        "salary": "$35K - $45K",
         "description": "We are seeking a friendly and reliable customer service representative to join our team.",
         "responsibilities": [
           "Answer customer inquiries and resolve issues",

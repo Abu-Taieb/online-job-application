@@ -6,16 +6,16 @@ import "./index.css";
 import Statistics from "./Component/Statistics/Statistics";
 import Blog from "./Component/Blog/Blog";
 import AppliedJobs from "./Component/AppliedJobs/AppliedJobs";
-import Main from "./Component/Main/Main";
 import ErrorPage from "./Component/ErrorPage";
 import Home from "./Component/Home/Home";
 import Header from "./Component/Header/Header";
+import Main from "./Component/Main/Main";
 
 
 const router = createBrowserRouter([
     {
     path:"/",
-    element: <Home></Home> ,
+    element: <Home></Home>,
     errorElement: <ErrorPage></ErrorPage>,
     children: [
       {
@@ -31,8 +31,8 @@ const router = createBrowserRouter([
         element: <Blog></Blog>
       },
       {
-        path: "header",
-        element: <Header></Header>
+        path: "main",
+        element: <Main></Main>
       }
     ]
     }
