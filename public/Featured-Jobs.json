@@ -1,0 +1,76 @@
+{
+    "jobs": [
+      {
+        "id": 1,
+        "company_logo": "https://example.com/company1-logo.png",
+        "title": "Software Engineer",
+        "company_name": "Acme Corp",
+        "location": "San Francisco, CA",
+        "salary": "$100,000 - $150,000 per year",
+        "description": "We are looking for an experienced software engineer to join our team.",
+        "responsibilities": [
+          "Develop and maintain software applications",
+          "Collaborate with cross-functional teams to identify and solve complex problems",
+          "Stay up-to-date with emerging trends and technologies in software development"
+        ],
+        "full_time": true,
+        "experience": "5+ years",
+        "education_req": "Bachelor's degree in Computer Science or related field",
+        "phone": "555-123-4567",
+        "email": "hr@acmecorp.com"
+      },
+      {
+        "id": 2,
+        "company_logo": "https://example.com/company2-logo.png",
+        "title": "Data Scientist",
+        "company_name": "Beta Inc",
+        "location": "New York, NY",
+        "salary": "$120,000 - $160,000 per year",
+        "description": "We are seeking a data scientist to analyze and interpret complex data sets.",
+        "responsibilities": [
+          "Design and implement data models and algorithms",
+          "Collaborate with stakeholders to define project requirements",
+          "Communicate findings and recommendations to non-technical audiences"
+        ],
+        "full_time": true,
+        "experience": "3-5 years",
+        "education_req": "Master's degree in Data Science, Computer Science, or related field",
+        "phone": "555-234-5678",
+        "email": "hr@betainc.com"
+      },
+      {
+        "id": 3,
+        "company_logo": "https://example.com/company3-logo.png",
+        "title": "Marketing Manager",
+        "company_name": "Gamma Corp",
+        "location": "Chicago, IL",
+        "salary": "$150,000 - $200,000 per year",
+        "description": "We are seeking a talented marketing manager to lead our team.",
+        "responsibilities": [
+          "Develop and oversee marketing strategies and campaigns",
+          "Manage a team of marketing professionals",
+          "Analyze market trends and adjust strategies as needed"
+        ],
+        "full_time": true,
+        "experience": "7+ years",
+        "education_req": "Bachelor's degree in Marketing, Business Administration, or related field",
+        "phone": "555-345-6789",
+        "email": "hr@gammacorp.com"
+      },
+      {
+        "id": 4,
+        "company_logo": "https://example.com/company4-logo.png",
+        "title": "Customer Service Representative",
+        "company_name": "Delta Inc",
+        "location": "Houston, TX",
+        "salary": "$35,000 - $45,000 per year",
+        "description": "We are seeking a friendly and reliable customer service representative to join our team.",
+        "responsibilities": [
+          "Answer customer inquiries and resolve issues",
+          "Provide exceptional customer service",
+          "Maintain accurate customer records and data"
+        ],
+        "full_time": false
+      }
+    ]
+}
