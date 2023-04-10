@@ -1,0 +1,6 @@
+.active{
+    font-size: 24px;
+    background: -webkit-linear-gradient(#EC4899, #A855F7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

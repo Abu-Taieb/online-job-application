@@ -77,11 +77,13 @@ const Main = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-5 px-5">
           <div className="border rounded-lg p-10">
             <img src="google-1-1 1-1.png" alt="" />
-            <h4 className="font-bold pt-5 text-2xl">Technical Database Engineer</h4>
+            <h4 className="font-bold pt-5 text-2xl">
+              Technical Database Engineer
+            </h4>
             <h6 className="py-3 font-semibold text-2xl">Google LLC</h6>
-            
+
             <div className="py-3">
-            <button className="text-2xl border py-2 px-4 rounded-lg my-2 mr-3  text-blue-500 font-semibold">
+              <button className="text-2xl border py-2 px-4 rounded-lg my-2 mr-3  text-blue-500 font-semibold">
                 Remote
               </button>
               <button className="text-2xl border py-2 px-4 rounded-lg my-2 mr-3 text-blue-500 font-semibold">
@@ -99,11 +101,13 @@ const Main = () => {
           </div>
           <div className="border rounded-lg p-10">
             <img src="netflix-4 1.png" alt="" />
-            <h4 className="font-bold pt-5 text-2xl">Technical Database Engineer</h4>
+            <h4 className="font-bold pt-5 text-2xl">
+              Technical Database Engineer
+            </h4>
             <h6 className="py-3 font-semibold text-2xl">Netflix</h6>
-            
+
             <div className="py-3">
-            <button className="text-2xl border py-2 px-4 rounded-lg my-2 mr-3  text-blue-500 font-semibold">
+              <button className="text-2xl border py-2 px-4 rounded-lg my-2 mr-3  text-blue-500 font-semibold">
                 Onsite
               </button>
               <button className="text-2xl border py-2 px-4 rounded-lg my-2 mr-3 text-blue-500 font-semibold">
@@ -121,11 +125,13 @@ const Main = () => {
           </div>
           <div className="border rounded-lg p-10">
             <img src="tesla-9 1.png" alt="" />
-            <h4 className="font-bold pt-5 text-2xl">Technical Database Engineer</h4>
+            <h4 className="font-bold pt-5 text-2xl">
+              Technical Database Engineer
+            </h4>
             <h6 className="py-3 font-semibold text-2xl">Tesla</h6>
-            
+
             <div className="py-3">
-            <button className="text-2xl border py-2 px-4 rounded-lg my-2 mr-3  text-blue-500 font-semibold">
+              <button className="text-2xl border py-2 px-4 rounded-lg my-2 mr-3  text-blue-500 font-semibold">
                 Onsite
               </button>
               <button className="text-2xl border py-2 px-4 rounded-lg my-2 mr-3 text-blue-500 font-semibold">
@@ -143,11 +149,13 @@ const Main = () => {
           </div>
           <div className="border rounded-lg p-10">
             <img src="google-1-1 1.png" alt="" />
-            <h4 className="font-bold pt-5 text-2xl">Technical Database Engineer</h4>
+            <h4 className="font-bold pt-5 text-2xl">
+              Technical Database Engineer
+            </h4>
             <h6 className="py-3 font-semibold text-2xl">Google LLC</h6>
-            
+
             <div className="py-3">
-            <button className="text-2xl border py-2 px-4 rounded-lg my-2 mr-3  text-blue-500 font-semibold">
+              <button className="text-2xl border py-2 px-4 rounded-lg my-2 mr-3  text-blue-500 font-semibold">
                 Remote
               </button>
               <button className="text-2xl border py-2 px-4 rounded-lg my-2 mr-3 text-blue-500 font-semibold">
@@ -163,6 +171,59 @@ const Main = () => {
               View Details
             </button>
           </div>
+          <div className="border rounded-lg p-10">
+            <img src="Group 10021.png" alt="" />
+            <h4 className="font-bold pt-5 text-2xl">
+              Technical Database Engineer
+            </h4>
+            <h6 className="py-3 font-semibold text-2xl">Airbnb</h6>
+
+            <div className="py-3">
+              <button className="text-2xl border py-2 px-4 rounded-lg my-2 mr-3  text-blue-500 font-semibold">
+                Remote
+              </button>
+              <button className="text-2xl border py-2 px-4 rounded-lg my-2 mr-3 text-blue-500 font-semibold">
+                Full Time
+              </button>
+            </div>
+
+            <div className="sm:flex gap-5 py-4 font-semibold text-2xl">
+              <h5>Dhaka, Bangladesh</h5>
+              <h5>Salary: 100K-150K</h5>
+            </div>
+            <button className="btn bg-gradient-to-r from-pink-500 to-purple-500 border-0 my-3">
+              View Details
+            </button>
+          </div>
+          <div className="border rounded-lg p-10">
+            <img src="netflix-4 1.png" alt="" />
+            <h4 className="font-bold pt-5 text-2xl">
+              Technical Database Engineer
+            </h4>
+            <h6 className="py-3 font-semibold text-2xl">Netflix</h6>
+
+            <div className="py-3">
+              <button className="text-2xl border py-2 px-4 rounded-lg my-2 mr-3  text-blue-500 font-semibold">
+                Onsite
+              </button>
+              <button className="text-2xl border py-2 px-4 rounded-lg my-2 mr-3 text-blue-500 font-semibold">
+                Full Time
+              </button>
+            </div>
+
+            <div className="sm:flex gap-5 py-4 font-semibold text-2xl">
+              <h5>Dhaka, Bangladesh</h5>
+              <h5>Salary: 100K-150K</h5>
+            </div>
+            <button className="btn bg-gradient-to-r from-pink-500 to-purple-500 border-0 my-3">
+              View Details
+            </button>
+          </div>
+        </div>
+        <div className="text-center mt-5">
+          <button className=" btn bg-gradient-to-r from-pink-500 to-purple-500 border-0 m-5">
+            See All Jobs
+          </button>
         </div>
       </section>
     </>
