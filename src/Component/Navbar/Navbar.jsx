@@ -6,7 +6,7 @@ import './Navbar.css'
 const Navbar = () => {
     return (
         <div className='flex justify-between px-5 py-5 bg-pink-50'>
-            <h2 className='text-3xl font-bold text-left p-0 flex items-center'><Link to="/main">Need Jobs</Link></h2>
+            <h2 className='text-3xl font-bold text-left p-0 flex items-center'><Link to="/">Need Jobs</Link></h2>
             <nav className='flex justify-center gap-6 items-center text-2xl font-semibold'>
                 <ActiveLink to="/statistics">Statistics</ActiveLink>
                 <ActiveLink to="/appliedJobs">Applied Jobs</ActiveLink>

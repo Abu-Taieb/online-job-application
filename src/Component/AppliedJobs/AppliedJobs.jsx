@@ -2,7 +2,7 @@ import React from 'react';
 
 const AppliedJobs = () => {
     return (
-        <div>
+        <div className='appliedJobs py-52'>
             <h2>Applied Jobs</h2>
         </div>
     );

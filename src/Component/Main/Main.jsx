@@ -1,6 +1,7 @@
 import React from "react";
 
-const Main = () => {
+const Main = ({job}) => {
+  console.log(job);
   return (
     <>
       {/* Main Banner Section */}
@@ -42,24 +43,24 @@ const Main = () => {
             </div>
           </div>
           <div className="bg-pink-50 rounded-lg p-5 my-5">
-            <img className="mb-6" src="accounts1.png" alt="" />
+            <img className="mb-6" src="business 1.png" alt="" />
             <div className="text-left ">
-              <h2 className="text-2xl font-semibold">Account & Finance</h2>
-              <p className="">300 Jobs Available</p>
+              <h2 className="text-2xl font-semibold">Creative Design</h2>
+              <p className="">100+ Jobs Available</p>
             </div>
           </div>
           <div className="bg-pink-50 rounded-lg p-5 my-5">
-            <img className="mb-6" src="accounts1.png" alt="" />
+            <img className="mb-6" src="social-media 1.png" alt="" />
             <div className="text-left ">
-              <h2 className="text-2xl font-semibold">Account & Finance</h2>
-              <p className="">300 Jobs Available</p>
+              <h2 className="text-2xl font-semibold">Marketing & Sales</h2>
+              <p className="">150 Jobs Available</p>
             </div>
           </div>
           <div className="bg-pink-50 rounded-lg p-5 my-5">
-            <img className="mb-6" src="accounts1.png" alt="" />
+            <img className="mb-6" src="chip 1.png" alt="" />
             <div className="text-left ">
-              <h2 className="text-2xl font-semibold">Account & Finance</h2>
-              <p className="">300 Jobs Available</p>
+              <h2 className="text-2xl font-semibold">Engineering Job</h2>
+              <p className="">224 Jobs Available</p>
             </div>
           </div>
         </div>

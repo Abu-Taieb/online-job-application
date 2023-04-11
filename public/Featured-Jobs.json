@@ -1,5 +1,4 @@
-{
-    "jobs": [
+[
       {
         "id": 1,
         "company_logo": "https://as1.ftcdn.net/v2/jpg/03/99/98/60/1000_F_399986042_9iSLYUNyDv8npaKP31xsIpDVFjfqGLDF.jpg",
@@ -73,4 +72,3 @@
         "full_time": false
       }
     ]
-}
