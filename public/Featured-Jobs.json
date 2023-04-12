@@ -1,18 +1,18 @@
 [
       {
         "id": 1,
-        "company_logo": "https://as1.ftcdn.net/v2/jpg/03/99/98/60/1000_F_399986042_9iSLYUNyDv8npaKP31xsIpDVFjfqGLDF.jpg",
+        "company_logo": "./google-1-1 1-1.png",
         "title": "Technical Database Engineer",
         "company_name": "Google LLc",
         "location": "Dhaka Bangladesh",
-        "salary": "$100K - $150K",
+        "salary": "100K - 150K",
         "description": "We are looking for an experienced software engineer to join our team. We are looking for an experienced software engineer to join our team.",
         "responsibilities": [
           "Develop and maintain software applications",
           "Collaborate with cross-functional teams to identify and solve complex problems",
           "Stay up-to-date with emerging trends and technologies in software development"
         ],
-        "full_time": true,
+        "job_category_one": "Full Time",
         "experience": "5+ years",
         "education_req": "Bachelor's degree in Computer Science or related field",
         "phone": "555-123-4567",
@@ -20,18 +20,18 @@
       },
       {
         "id": 2,
-        "company_logo": "https://as2.ftcdn.net/v2/jpg/05/38/65/33/1000_F_538653341_MVTOvktyvWCwqAdVTllBPFnfJbgHiYxB.jpg",
+        "company_logo": "./netflix-4 1.png",
         "title": "Data Scientist",
-        "company_name": "Filmix",
+        "company_name": "Netflix",
         "location": "New York, NY",
-        "salary": "$120K - $160K",
+        "salary": "120K - 160K",
         "description": "We are seeking a data scientist to analyze and interpret complex data sets. We are seeking a data scientist to analyze and interpret complex data sets.",
         "responsibilities": [
           "Design and implement data models and algorithms",
           "Collaborate with stakeholders to define project requirements",
           "Communicate findings and recommendations to non-technical audiences"
         ],
-        "full_time": true,
+        "job_category_one": "Full Time",
         "experience": "3-5 years",
         "education_req": "Master's degree in Data Science, Computer Science, or related field",
         "phone": "555-234-5678",
@@ -43,14 +43,14 @@
         "title": "Marketing Manager",
         "company_name": "Tesla",
         "location": "Chicago, IL",
-        "salary": "$150K - $200K",
+        "salary": "150K - 200K",
         "description": "We are seeking a talented marketing manager to lead our team. We are seeking a talented marketing manager to lead our team. We are seeking a talented marketing manager to lead our team.",
         "responsibilities": [
           "Develop and oversee marketing strategies and campaigns",
           "Manage a team of marketing professionals",
           "Analyze market trends and adjust strategies as needed"
         ],
-        "full_time": true,
+        "job_category_one": "Full Time",
         "experience": "7+ years",
         "education_req": "Bachelor's degree in Marketing, Business Administration, or related field",
         "phone": "555-345-6789",
@@ -59,16 +59,58 @@
       {
         "id": 4,
         "company_logo": "./Group 10021.png",
-        "title": "Customer Service Representative",
+        "title": "Marketing Manager",
         "company_name": "Airbnb LLC",
-        "location": "Houston, TX",
-        "salary": "$35K - $45K",
-        "description": "We are seeking a friendly and reliable customer service representative to join our team.",
+        "location": "Chicago, IL",
+        "salary": "150K - 200K",
+        "description": "We are seeking a talented marketing manager to lead our team. We are seeking a talented marketing manager to lead our team. We are seeking a talented marketing manager to lead our team.",
         "responsibilities": [
-          "Answer customer inquiries and resolve issues",
-          "Provide exceptional customer service",
-          "Maintain accurate customer records and data"
+          "Develop and oversee marketing strategies and campaigns",
+          "Manage a team of marketing professionals",
+          "Analyze market trends and adjust strategies as needed"
         ],
-        "full_time": false
+        "job_category_one": "Full Time",
+        "experience": "4+ years",
+        "education_req": "Bachelor's degree in Marketing, Business Administration, or related field",
+        "phone": "555-345-6789",
+        "email": "hr@gammacorp.com"
+      },
+      {
+        "id": 5,
+        "company_logo": "./tesla-9 1.png",
+        "title": "Marketing Manager",
+        "company_name": "Tesla",
+        "location": "Chicago, IL",
+        "salary": "150K - 200K",
+        "description": "We are seeking a talented marketing manager to lead our team. We are seeking a talented marketing manager to lead our team. We are seeking a talented marketing manager to lead our team.",
+        "responsibilities": [
+          "Develop and oversee marketing strategies and campaigns",
+          "Manage a team of marketing professionals",
+          "Analyze market trends and adjust strategies as needed"
+        ],
+        "job_category_one": "Full Time",
+        "experience": "8+ years",
+        "education_req": "Bachelor's degree in Marketing, Business Administration, or related field",
+        "phone": "555-345-6789",
+        "email": "hr@gammacorp.com"
+      },
+      {
+        "id": 6,
+        "company_logo": "./netflix-4 1.png",
+        "title": "Marketing Manager",
+        "company_name": "Netflix",
+        "location": "Chicago, IL",
+        "salary": "150K - 200K",
+        "description": "We are seeking a talented marketing manager to lead our team. We are seeking a talented marketing manager to lead our team. We are seeking a talented marketing manager to lead our team.",
+        "responsibilities": [
+          "Develop and oversee marketing strategies and campaigns",
+          "Manage a team of marketing professionals",
+          "Analyze market trends and adjust strategies as needed"
+        ],
+        "job_category_one": "Full Time",
+        "experience": "6+ years",
+        "education_req": "Bachelor's degree in Marketing, Business Administration, or related field",
+        "phone": "555-345-6789",
+        "email": "hr@gammacorp.com"
       }
     ]
