@@ -28,7 +28,7 @@ const Header = ({ job, handleJob }) => {
               <h5><FontAwesomeIcon icon={faLocationDot} /> {location}</h5>
               <h5><FontAwesomeIcon icon={faDollarSign} /> Salary : {salary}</h5>
             </div>
-            <button onClick={() => handleJob(job)} className="btn bg-gradient-to-r from-pink-500 to-purple-500 border-0 my-3">View Details</button>
+            <button onClick={() => handleJob(job)} className="btn bg-gradient-to-r from-pink-500 to-purple-500 border-0 my-3">Applied Jobs</button>
           </div>
         </div>
       </section>

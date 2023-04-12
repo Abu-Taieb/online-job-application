@@ -12,6 +12,7 @@ import Header from "./Component/Header/Header";
 import Main from "./Component/Main/Main";
 import Jobs from "./Component/Jobs/Jobs";
 import SingleDetail from "./Component/SingleDetail/SingleDetail";
+import Applied from "./Component/Applied/Applied";
 
 
 const router = createBrowserRouter([
@@ -36,6 +37,10 @@ const router = createBrowserRouter([
       {
         path: "blog",
         element: <Blog></Blog>
+      },
+      {
+        path: "applied",
+        element: <Applied></Applied>
       },
       {
         path: "singleDetail",
