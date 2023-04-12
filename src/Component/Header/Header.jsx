@@ -1,11 +1,11 @@
 import React from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faDollarSign, faLocationDot } from '@fortawesome/free-solid-svg-icons'
-import JobDetails from "../JobDetails/JobDetails";
+import AppliedJobs from "../AppliedJobs/AppliedJobs";
 
-const Header = ({ job }) => {
+const Header = ({ job, handleJob }) => {
   const { title, company_logo, company_name, job_category_one, location, salary } = job;
-  
+ 
   return (
     <div>
       {/* Feature Section  */}
@@ -28,7 +28,7 @@ const Header = ({ job }) => {
               <h5><FontAwesomeIcon icon={faLocationDot} /> {location}</h5>
               <h5><FontAwesomeIcon icon={faDollarSign} /> Salary : {salary}</h5>
             </div>
-            <button onClick={<JobDetails></JobDetails>} className="btn bg-gradient-to-r from-pink-500 to-purple-500 border-0 my-3">View Details</button>
+            <button onClick={() => handleJob(job)} className="btn bg-gradient-to-r from-pink-500 to-purple-500 border-0 my-3">View Details</button>
           </div>
         </div>
       </section>

@@ -11,6 +11,7 @@ import Home from "./Component/Home/Home";
 import Header from "./Component/Header/Header";
 import Main from "./Component/Main/Main";
 import Jobs from "./Component/Jobs/Jobs";
+import SingleDetail from "./Component/SingleDetail/SingleDetail";
 
 
 const router = createBrowserRouter([
@@ -29,11 +30,17 @@ const router = createBrowserRouter([
       },
       {
         path: "appliedJobs",
-        element: <AppliedJobs></AppliedJobs>
+        element: <AppliedJobs></AppliedJobs>,
+        loader: () => fetch('/Featured-Jobs.json'),
       },
       {
         path: "blog",
         element: <Blog></Blog>
+      },
+      {
+        path: "singleDetail",
+        element: <SingleDetail></SingleDetail>,
+        loader: () => fetch('/Featured-Jobs.json'),
       },
       {
         path: "*",

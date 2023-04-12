@@ -8,6 +8,7 @@ const Navbar = () => {
         <div className='flex justify-between px-5 py-5 bg-pink-50'>
             <h2 className='text-3xl font-bold text-left p-0 flex items-center'><Link to="/">Need Jobs</Link></h2>
             <nav className='flex justify-center gap-6 items-center text-2xl font-semibold'>
+                <ActiveLink to="/">Home</ActiveLink>
                 <ActiveLink to="/statistics">Statistics</ActiveLink>
                 <ActiveLink to="/appliedJobs">Applied Jobs</ActiveLink>
                 <ActiveLink to="/blog">Blog</ActiveLink>

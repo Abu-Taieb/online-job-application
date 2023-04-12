@@ -1,7 +1,7 @@
 [
       {
         "id": 1,
-        "company_logo": "./google-1-1 1-1.png",
+        "company_logo": "https://i.ibb.co/1mMQDS9/google-1-1-1.png",
         "title": "Technical Database Engineer",
         "company_name": "Google LLc",
         "location": "Dhaka Bangladesh",
@@ -20,7 +20,7 @@
       },
       {
         "id": 2,
-        "company_logo": "./netflix-4 1.png",
+        "company_logo": "https://i.ibb.co/3yrgdVw/netflix-4-1.png",
         "title": "Data Scientist",
         "company_name": "Netflix",
         "location": "New York, NY",
@@ -39,7 +39,7 @@
       },
       {
         "id": 3,
-        "company_logo": "./tesla-9 1.png",
+        "company_logo": "https://i.ibb.co/CPJsk3Z/tesla-9-1.png",
         "title": "Marketing Manager",
         "company_name": "Tesla",
         "location": "Chicago, IL",
@@ -58,7 +58,7 @@
       },
       {
         "id": 4,
-        "company_logo": "./Group 10021.png",
+        "company_logo": "https://i.ibb.co/MV7zMtZ/Group-10021.png",
         "title": "Marketing Manager",
         "company_name": "Airbnb LLC",
         "location": "Chicago, IL",
@@ -77,7 +77,7 @@
       },
       {
         "id": 5,
-        "company_logo": "./tesla-9 1.png",
+        "company_logo": "https://i.ibb.co/CPJsk3Z/tesla-9-1.png",
         "title": "Marketing Manager",
         "company_name": "Tesla",
         "location": "Chicago, IL",
@@ -96,7 +96,7 @@
       },
       {
         "id": 6,
-        "company_logo": "./netflix-4 1.png",
+        "company_logo": "https://i.ibb.co/3yrgdVw/netflix-4-1.png",
         "title": "Marketing Manager",
         "company_name": "Netflix",
         "location": "Chicago, IL",
