@@ -1,3 +1,15 @@
+##
+# This website use for apply job
+# go to featured job section then click view jobs
+# go to applied jobs menu and then click view details button
+# see job details page
+# click apply now button for job apply
+# now you can see successful message
+##
+
+
+
+
 <!-- 
 
 Private Repository Link :: =>

@@ -2,6 +2,7 @@ import React from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faDollarSign, faLocationDot } from '@fortawesome/free-solid-svg-icons'
 import AppliedJobs from "../AppliedJobs/AppliedJobs";
+import { Link } from "react-router-dom";
 
 const Header = ({ job, handleJob }) => {
   const { title, company_logo, company_name, job_category_one, location, salary } = job;
@@ -28,7 +29,10 @@ const Header = ({ job, handleJob }) => {
               <h5><FontAwesomeIcon icon={faLocationDot} /> {location}</h5>
               <h5><FontAwesomeIcon icon={faDollarSign} /> Salary : {salary}</h5>
             </div>
-            <button onClick={() => handleJob(job)} className="btn bg-gradient-to-r from-pink-500 to-purple-500 border-0 my-3">Applied Jobs</button>
+
+            <button onClick={() => handleJob(job)} className="btn bg-gradient-to-r from-pink-500 to-purple-500 border-0 my-3">
+            <Link to="/singleDetail">View Details</Link>
+          </button>
           </div>
         </div>
       </section>
