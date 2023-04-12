@@ -13,6 +13,7 @@
           "Stay up-to-date with emerging trends and technologies in software development"
         ],
         "job_category_one": "Full Time",
+        "job_category_two": "Remote",
         "experience": "5+ years",
         "education_req": "Bachelor's degree in Computer Science or related field",
         "phone": "555-123-4567",
@@ -32,6 +33,7 @@
           "Communicate findings and recommendations to non-technical audiences"
         ],
         "job_category_one": "Full Time",
+        "job_category_two": "Onsite",
         "experience": "3-5 years",
         "education_req": "Master's degree in Data Science, Computer Science, or related field",
         "phone": "555-234-5678",
@@ -50,7 +52,8 @@
           "Manage a team of marketing professionals",
           "Analyze market trends and adjust strategies as needed"
         ],
-        "job_category_one": "Full Time",
+        "job_category_one": "Onsite",
+        "job_category_two": "Remote",
         "experience": "7+ years",
         "education_req": "Bachelor's degree in Marketing, Business Administration, or related field",
         "phone": "555-345-6789",
@@ -70,45 +73,8 @@
           "Analyze market trends and adjust strategies as needed"
         ],
         "job_category_one": "Full Time",
+        "job_category_two": "Remote",
         "experience": "4+ years",
-        "education_req": "Bachelor's degree in Marketing, Business Administration, or related field",
-        "phone": "555-345-6789",
-        "email": "hr@gammacorp.com"
-      },
-      {
-        "id": 5,
-        "company_logo": "https://i.ibb.co/CPJsk3Z/tesla-9-1.png",
-        "title": "Marketing Manager",
-        "company_name": "Tesla",
-        "location": "Chicago, IL",
-        "salary": "150K - 200K",
-        "description": "We are seeking a talented marketing manager to lead our team. We are seeking a talented marketing manager to lead our team. We are seeking a talented marketing manager to lead our team.",
-        "responsibilities": [
-          "Develop and oversee marketing strategies and campaigns",
-          "Manage a team of marketing professionals",
-          "Analyze market trends and adjust strategies as needed"
-        ],
-        "job_category_one": "Full Time",
-        "experience": "8+ years",
-        "education_req": "Bachelor's degree in Marketing, Business Administration, or related field",
-        "phone": "555-345-6789",
-        "email": "hr@gammacorp.com"
-      },
-      {
-        "id": 6,
-        "company_logo": "https://i.ibb.co/3yrgdVw/netflix-4-1.png",
-        "title": "Marketing Manager",
-        "company_name": "Netflix",
-        "location": "Chicago, IL",
-        "salary": "150K - 200K",
-        "description": "We are seeking a talented marketing manager to lead our team. We are seeking a talented marketing manager to lead our team. We are seeking a talented marketing manager to lead our team.",
-        "responsibilities": [
-          "Develop and oversee marketing strategies and campaigns",
-          "Manage a team of marketing professionals",
-          "Analyze market trends and adjust strategies as needed"
-        ],
-        "job_category_one": "Full Time",
-        "experience": "6+ years",
         "education_req": "Bachelor's degree in Marketing, Business Administration, or related field",
         "phone": "555-345-6789",
         "email": "hr@gammacorp.com"

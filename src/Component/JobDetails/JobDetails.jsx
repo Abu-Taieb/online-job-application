@@ -11,6 +11,7 @@ const JobDetails = ({ data }) => {
     location,
     salary,
     job_category_one,
+    job_category_two
   } = data;
   return (
     <div>
@@ -24,7 +25,7 @@ const JobDetails = ({ data }) => {
           <h6 className=" font-semibold text-2xl">{company_name}</h6>
           <div className="">
             <button className="text-2xl border py-1 px-3 rounded-lg my-2 mr-3  text-blue-500 font-semibold">
-              Onsite
+              {job_category_two}
             </button>
 
             <button className="text-2xl border py-1 px-3 rounded-lg my-2 mr-3 text-blue-500 font-semibold">

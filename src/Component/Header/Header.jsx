@@ -1,11 +1,11 @@
 import React from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faDollarSign, faLocationDot } from '@fortawesome/free-solid-svg-icons'
-import AppliedJobs from "../AppliedJobs/AppliedJobs";
+
 import { Link } from "react-router-dom";
 
 const Header = ({ job, handleJob }) => {
-  const { title, company_logo, company_name, job_category_one, location, salary } = job;
+  const { title, company_logo, company_name, job_category_one,job_category_two, location, salary } = job;
  
   return (
     <div>
@@ -18,7 +18,7 @@ const Header = ({ job, handleJob }) => {
             <h6 className="py-3 font-semibold text-2xl">{company_name}</h6>
             <div className="py-3">
               <button className="text-2xl border py-2 px-4 rounded-lg my-2 mr-3  text-blue-500 font-semibold">
-                Onsite
+                {job_category_two}
               </button>
               
               <button className="text-2xl border py-2 px-4 rounded-lg my-2 mr-3 text-blue-500 font-semibold">
