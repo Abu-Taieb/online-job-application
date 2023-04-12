@@ -12,7 +12,7 @@ const Footer = () => {
           </p>
           <img className="" src="Group 9969.png" alt="social" />
         </div>
-        <div className="lg:w-3/5 flex justify-between gap-12 py-5 ">
+        <div className="lg:w-3/5 grid grid-cols-2 md:grid-cols-4 justify-center gap-12 py-5 ">
             <div className="">
                 <h4 className="text-2xl font-semibold">Company</h4>
                 <ul>
