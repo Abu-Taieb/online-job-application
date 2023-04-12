@@ -14,9 +14,11 @@ const Jobs = () => {
         </p>
       </div>
       
+      <div className="grid grid-cols-1 md:grid-cols-2" >
       {jobs.map((job) => (
         <Header key={job.id} job={job}></Header>
       ))}
+      </div>
 
       <div className="text-center mt-5">
           <button className=" btn bg-gradient-to-r from-pink-500 to-purple-500 border-0 m-5">

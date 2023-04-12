@@ -12,29 +12,29 @@ const Category = () => {
             need. Its your future
           </p>
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-10">
-          <div className="bg-pink-50 rounded-lg p-5 my-5">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
+          <div className="bg-pink-50 rounded-lg p-5">
             <img className="mb-6" src="accounts1.png" alt="" />
             <div className="text-left ">
               <h2 className="text-2xl font-semibold">Account & Finance</h2>
               <p className="">300 Jobs Available</p>
             </div>
           </div>
-          <div className="bg-pink-50 rounded-lg p-5 my-5">
+          <div className="bg-pink-50 rounded-lg p-5">
             <img className="mb-6" src="business 1.png" alt="" />
             <div className="text-left ">
               <h2 className="text-2xl font-semibold">Creative Design</h2>
               <p className="">100+ Jobs Available</p>
             </div>
           </div>
-          <div className="bg-pink-50 rounded-lg p-5 my-5">
+          <div className="bg-pink-50 rounded-lg p-5">
             <img className="mb-6" src="social-media 1.png" alt="" />
             <div className="text-left ">
               <h2 className="text-2xl font-semibold">Marketing & Sales</h2>
               <p className="">150 Jobs Available</p>
             </div>
           </div>
-          <div className="bg-pink-50 rounded-lg p-5 my-5">
+          <div className="bg-pink-50 rounded-lg p-5">
             <img className="mb-6" src="chip 1.png" alt="" />
             <div className="text-left ">
               <h2 className="text-2xl font-semibold">Engineering Job</h2>

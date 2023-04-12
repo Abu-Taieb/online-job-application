@@ -1,5 +1,4 @@
 import React from "react";
-import { useLoaderData } from "react-router-dom";
 import Jobs from "../Jobs/Jobs";
 import Banner from "../Banner/Banner";
 import Category from "../Category/Category";
